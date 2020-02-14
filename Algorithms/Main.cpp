@@ -17,6 +17,6 @@ int main() {
 	ispis(array, 10);
 
 
-
+	delete[]array;
 	return 0;
 }
